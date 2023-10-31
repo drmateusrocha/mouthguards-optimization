@@ -2,11 +2,6 @@ cff-version: 1.2.0
 title: >-
   Optimizing 3D-Printed Mouthguard Materials Using
   Artificial Intelligence
-message: >-
-  This repository serves as preliminary dataset created with
-  synthetic data for theoretical experimentation on the use
-  of artificial neural netoworks to optimize resins and
-  structural design of mouthguards.
 type: dataset
 authors:
   - given-names: Mateus Garcia
