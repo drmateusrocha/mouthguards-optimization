@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
   Optimizing 3D-Printed Mouthguard Materials Using
@@ -17,6 +14,19 @@ authors:
     email: mrocha@dental.ufl.edu
     affiliation: University of Florida College of Dentistry
     orcid: 'https://orcid.org/0000-0001-5658-5640'
+  - given-names: Jason
+    family-names: Griggs
+    email: jgriggs@umc.edu
+  - given-names: John Jack
+    family-names: Mecholsky
+    affiliation: >-
+      University of Florida, Materials Science and
+      Engineering
+  - given-names: Ashok
+    family-names: Kumar
+    affiliation: >-
+      University of Florida, Mechanical and Aerospace
+      Engineering
 repository-code: 'https://github.com/drmateusrocha/mouthguards-optimization'
 abstract: >-
   In this theoretical project, synthetic data serves as a
