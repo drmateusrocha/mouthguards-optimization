@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Optimizing 3D-Printed Mouthguard Materials Using
+  Artificial Intelligence
+message: >-
+  This repository serves as preliminary dataset created with
+  synthetic data for theoretical experimentation on the use
+  of artificial neural netoworks to optimize resins and
+  structural design of mouthguards.
+type: dataset
+authors:
+  - given-names: Mateus Garcia
+    family-names: Rocha
+    email: mrocha@dental.ufl.edu
+    affiliation: University of Florida College of Dentistry
+    orcid: 'https://orcid.org/0000-0001-5658-5640'
+  - name: Center for Dental biomater
+repository-code: 'https://github.com/drmateusrocha/mouthguards-optimization'
+abstract: >-
+  In this theoretical project, synthetic data serves as a
+  preliminary testbed for exploring the feasibility of AI/ML
+  frameworks in addressing sports-related orofacial
+  injuries, a concern given the 30 million young sports
+  participants annually. Current mouthguards, although
+  crucial, lack efficient energy absorption, presenting a
+  challenge that 3D printing technology aims to solve by
+  engineering resilient internal structures. The quest for
+  optimal 3D-printing resins and innovative mouthguard
+  designs is spearheaded by leveraging artificial
+  intelligence and machine learning to refine polyurethane
+  resin formulations for 3D printing, and devising
+  mouthguard designs with internal 3D-printed lattice
+  structures for better kinetic energy absorption. Through a
+  mix of in vitro and in silico testing, the project intends
+  to evaluate the mechanical and energy absorption
+  properties of the optimized resins and designs. The end
+  goal is to fabricate mouthguards offering enhanced athlete
+  protection and minimizing oral and craniofacial sports
+  injuries.
+keywords:
+  - Dental Biomaterials
+  - 3D-Printing
+  - Mouthguards
+  - Artificial Intelligence
+  - Finite Element Analysis
