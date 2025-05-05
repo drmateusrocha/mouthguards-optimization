@@ -12,16 +12,6 @@ authors:
   - given-names: Jason
     family-names: Griggs
     email: jgriggs@umc.edu
-  - given-names: John Jack
-    family-names: Mecholsky
-    affiliation: >-
-      University of Florida, Materials Science and
-      Engineering
-  - given-names: Ashok
-    family-names: Kumar
-    affiliation: >-
-      University of Florida, Mechanical and Aerospace
-      Engineering
 repository-code: 'https://github.com/drmateusrocha/mouthguards-optimization'
 abstract: >-
   In this theoretical project, synthetic data serves as a
